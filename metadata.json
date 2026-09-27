@@ -1,0 +1,6 @@
+{
+  "name": "Chashma Goth Complaints",
+  "description": "Chashma Goth Young Generation Complaint Portal - Citizen complaint registration and youth admin resolution management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
